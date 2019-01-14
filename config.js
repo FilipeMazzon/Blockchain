@@ -1,3 +1,8 @@
 const DIFFICULTY = 4;
 
-module.exports = {DIFFICULTY};
+const INITIAL_BALANCE = 500;
+
+module.exports = {
+    DIFFICULTY,
+    INITIAL_BALANCE
+};
